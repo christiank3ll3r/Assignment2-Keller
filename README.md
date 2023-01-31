@@ -13,5 +13,6 @@ You have to run up and down the court, and there are few stops in play.  I love 
 <ul> Good Matchups
 <li> Kentucky Wildcats </li>
 <li> Duke Blue Devils </li>
-</li> Virginia Cavaliers </li>
+<li> Virginia Cavaliers </li>
 </ul>
+
