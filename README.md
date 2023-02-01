@@ -23,7 +23,7 @@ You have to run up and down the court, and there are few stops in play.  I love 
 
 <hr>
 
-<h1> Table </h1>
+<h1> Tables </h1>
 
 <p> This is a table with my top picks for destination spots.  Of the 4, I've only been to one: Jamaica.  I hope to visit the others in my lifetime. </p>
 
@@ -68,3 +68,17 @@ You have to run up and down the court, and there are few stops in play.  I love 
     <td> 2 or 3 weeks </td>
 </tr>
 </table>
+
+<hr>
+
+<h1> Quotes
+
+<blockquote cite="https://parade.com/940913/parade/funny-quotes/">
+“Before you criticize someone, you should walk a mile in their shoes. That way when you criticize them, you are a mile away from them and you have their shoes.”
+</blockquote>
+<i> Jack Handey </i>
+
+<blockquote cite="https://parade.com/940913/parade/funny-quotes/">
+“Ned, I would love to stand here and talk with you—but I’m not going to.”
+</blockquote>
+<i> Bill Murray </i>
