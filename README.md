@@ -82,3 +82,29 @@ You have to run up and down the court, and there are few stops in play.  I love 
 “Ned, I would love to stand here and talk with you—but I’m not going to.”
 </blockquote>
 <i> Bill Murray </i>
+
+<hr>
+
+<h1> Code Fencing </h1>
+
+<blockquote cite="https://stackoverflow.com/questions/9878575/jquery-sticky-footer">
+"I need the script to work no matter what the height of the footer is, because it doesn't have a dynamic height set in the CSS file of my page. Would anyone be able to supply a working script for a sticky footer? I want the footer itself to always be at the bottom of pages, but not fixed position."
+</blockquote>
+
+<br>
+
+<p> https://stackoverflow.com/questions/9878575/jquery-sticky-footer </p>
+
+<br>
+<br>
+
+
+```
+<div id="footer">
+    Sticky Footer
+</div>
+```
+
+<br>
+
+<p> https://css-tricks.com/snippets/jquery/jquery-sticky-footer/ </p>
